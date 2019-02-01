@@ -8,4 +8,4 @@ Download the file and / or run the code on your IDE of choice (Codeblocks or Dev
 
 ## How to Play
 
-Movement is done with WASD. The goal of the game is to collect all of the dots (*/o) without getting caught by the four ghosts (@). There are "tunnels" at either side of the map which help the player to avoid ghosts. There is no reward for winning aside from the increasing score. 
+Movement is done with WASD. The goal of the game is to collect all of the dots (*/o) without getting caught by the four ghosts (@). There are "tunnels" at either side of the map which help the player to avoid ghosts. There is no reward for winning aside from the increasing score. The ghosts do not have complex AI and only move randomly between intersections.
